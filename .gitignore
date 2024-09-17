@@ -1,12 +1,12 @@
 # Ignore .venv
 .venv/
 
-# Ignore the enviroment variable file 
+# Ignore the environment variable file
 .env
 
 # Ignorar archivos de compilación
 *.pyc
-__pycache__/
+__pycache__/ 
 
 # Ignore log files
 *.log
